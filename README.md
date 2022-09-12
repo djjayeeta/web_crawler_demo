@@ -10,7 +10,7 @@ Ex. Depth 0 means only the url itself(if its a image), Depth 1 means any images 
 
 # Architechuture of the crawler
 
-![alt text](https://github.com/djjayeeta/web_crawler_demo/blob/master/architechture.jpg?raw=true) 
+![alt text](https://github.com/djjayeeta/web_crawler_demo/blob/master/architechture.png?raw=true) 
 
 ## Steps to run
 
